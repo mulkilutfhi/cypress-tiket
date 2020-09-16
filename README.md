@@ -1,4 +1,3 @@
-# cypress-tiket
 # Installation
 Install the plugin by running:
 
